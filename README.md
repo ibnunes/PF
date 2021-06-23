@@ -2,7 +2,7 @@
 
 Practical exercises of Computing Theory.
 
-* **Last update date**: Jun 11th, 2021
+* **Last update date**: Jun 23rd, 2021
 * **Language**: Portuguese
 * **Author:**: Igor Nunes, UBI
 * **Advisor**: Simão Melo de Sousa, PhD, UBI
@@ -21,6 +21,7 @@ Foram realizados 3 problemas de Programação Funcional:
 * **[Problema A](/src/PbA/):** A resposta é 42
 * **[Problema B](/src/PbB/):** Thumbnails
 * **[Problema C](/src/PbC/):** Os trocos trocados
+* **[Problema D](/src/PbD/PbD.ml):** Paz na Terra, comércio justo na galáxia
 
 
 ## Requisitos
